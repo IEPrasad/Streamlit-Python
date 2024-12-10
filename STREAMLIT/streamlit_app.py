@@ -34,6 +34,8 @@ pg = st.navigation(
   }
 )
 
+st.logo("assets/logo.jpeg")
+st.sidebar.text("Made with ❤ by IEP")
 
 # --- RUN NAVIGATION ---
 pg.run()  
