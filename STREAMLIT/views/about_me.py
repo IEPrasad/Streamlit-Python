@@ -17,3 +17,26 @@ with col2:
   if st.button("💌 Contact Me"):
     show_contact_form()
     
+# --- EXPERIENCE & QUALIFICATIONS ---
+st.write("\n")
+st.subheader("Experience & Qualifications", anchor=False)
+st.write(
+  """
+  - 7 Years experince Extracting actionable insights from data
+  - Strong's hands on experience and knowledge in Python And excel
+  - Good understanding of statistical principles and their respective applications
+  - Excellent team player and displaying a strong sense of initiative on tasks
+  """
+)
+
+# --- SKILS ---
+st.write("\n")
+st.subheader("Hard Skills", anchor=False)
+st.write(
+  """
+  - Programming: Python (Scikit-learn, Pandas), SQL, VBA
+  - Data Visualization: PowerBi, MS Excel, Plotly
+  - Modeling: Logistic regression, linear regression, decision trees
+  - Databases: Postgres, MongoDB, MySQL
+  """
+  )
